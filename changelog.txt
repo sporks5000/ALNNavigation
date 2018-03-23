@@ -1,0 +1,2 @@
+Version 0.0.1 (2018-03-23)
+    1)  Added navigation buttons above the post content, after the disqus section, and (if notes are present) after the notes.
